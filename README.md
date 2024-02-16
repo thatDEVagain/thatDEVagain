@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thatDEVagain
+- 👋 Hi, I’m Dev
 - 👀 I’m interested in Game Development, Assets Designing, Video Editing & Programming
 - 🌱 I’m currently learning C++ & Blender
 - 💞️ I’m looking to collaborate on : Coding Hackathons & Projects 
